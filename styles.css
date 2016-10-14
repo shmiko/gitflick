@@ -136,6 +136,7 @@ nav a.router-link-active {
   position: relative;
   top: -3px;
 }
+
 .items .badge {
   display: inline-block;
   font-size: small;
@@ -152,6 +153,7 @@ nav a.router-link-active {
 }
 
 /* everywhere else */
+
 * { 
   font-family: Arial, Helvetica, sans-serif; 
 }
