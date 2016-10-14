@@ -12,7 +12,7 @@ It exists primarily to get you started quickly with learning and prototyping in 
 We are unlikely to accept suggestions about how to grow this QuickStart into something it is not.
 Please keep that in mind before posting issues and PRs.
 
-## Prerequisites
+## Prerequisites nn
 
 Node.js and npm are essential to Angular development. 
     
