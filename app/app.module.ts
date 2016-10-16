@@ -8,4 +8,5 @@ import { ProfileComponent } from './components/profile.component';
   declarations: [ AppComponent, ProfileComponent ],
   bootstrap: [ AppComponent ]
 })
+
 export class AppModule { }
