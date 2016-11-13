@@ -5,4 +5,5 @@ import { ProfileComponent } from './components/profile.component'
     template: '<h1>GitFlick</h1><profile></profile>',
     directives: [ProfileComponent]
 })
+
 export class AppComponent { }
